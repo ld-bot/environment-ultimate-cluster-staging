@@ -9,7 +9,7 @@ dependencies:
   version: 2.3.114
 - name: go-test-app
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
+  version: 0.0.2
 - name: ld-go-example
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
